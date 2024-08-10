@@ -38,7 +38,7 @@ const Hero = () => {
       </div>
       <div id='cta' className='flex flex-col items-center opacity-0'>
       <a className='bg-titanium text-gray-900 font-bold rounded-full px-5 py-1 my-1 cursor-pointer hover:text-white transition-all'>Buy</a>
-      <p className='font-normal text-xl text-gray-100'>Starting from $99/month or $999</p>
+      <p className='font-normal text-xl text-gray-100'>Starting from $49/month or $700</p>
       </div>
     </section>
   )
